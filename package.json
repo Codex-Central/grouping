@@ -1,26 +1,25 @@
 {
-  "name": "@codexcentral/<name_of_package>",
+  "name": "@codexcentral/grouping",
   "version": "1.0.0",
-  "description": "Function to allow....",
+  "description": "Functions to group data by a key or multiple keys.",
   "license": "Apache-2.0",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
-  "types": "./dist/esm/index.d.ts",
   "files": [
     "dist",
     "README.md",
     "LICENSE"
   ],
-  "keywords": ["typescript"],
+  "keywords": ["typescript", "grouping", "group", "data", "array", "object", "keys", "values", "groupby", "group-by", "groupingby"],
   "author": "Roberto Silva Zuñiga <c.roberto.u@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Codex-Central/<name_of_package>.git"
+    "url": "git+https://github.com/Codex-Central/grouping.git"
   },
   "bugs": {
-    "url": "https://github.com/Codex-Central/<name_of_package>/issues"
+    "url": "https://github.com/Codex-Central/grouping/issues"
   },
-  "homepage": "https://github.com/Codex-Central/<name_of_package>#readme",
+  "homepage": "https://github.com/Codex-Central/grouping#readme",
   "scripts": {
     "build": "rm -rf dist/ && npm run build:esm && npm run build:cjs",
     "build:esm": "tsc --outDir dist/esm --module esnext",
