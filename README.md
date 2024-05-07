@@ -220,4 +220,4 @@ import { groupBy } from "@codexcentral/grouping";
 
 This code was written by [Roberto Silva Z.](https://www.linkedin.com/in/robertosilvazuniga/)
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="BuyMeACoffee" width="200" />](https://www.buymeacoffee.com/robertosilvaz)
+[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="BuyMeACoffee" width="200" />](https://www.buymeacoffee.com/robertosilva)
